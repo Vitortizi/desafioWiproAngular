@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Project
 
-To see the project running [heroku.wipro](https://angular.io/cli) page.
+To see the project running [vercel.wipro](https://desafio-wipro-angular.vercel.app/) page.
